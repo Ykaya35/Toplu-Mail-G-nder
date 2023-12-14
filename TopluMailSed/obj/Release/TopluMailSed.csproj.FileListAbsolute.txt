@@ -1,0 +1,17 @@
+D:\C# Projeler\TopluMailSed\TopluMailSed\bin\Release\TopluMailSed.exe.config
+D:\C# Projeler\TopluMailSed\TopluMailSed\bin\Release\TopluMailSed.exe
+D:\C# Projeler\TopluMailSed\TopluMailSed\bin\Release\TopluMailSed.pdb
+D:\C# Projeler\TopluMailSed\TopluMailSed\bin\Release\EPPlus.dll
+D:\C# Projeler\TopluMailSed\TopluMailSed\bin\Release\EPPlus.Interfaces.dll
+D:\C# Projeler\TopluMailSed\TopluMailSed\bin\Release\EPPlus.System.Drawing.dll
+D:\C# Projeler\TopluMailSed\TopluMailSed\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\C# Projeler\TopluMailSed\TopluMailSed\bin\Release\EPPlus.xml
+D:\C# Projeler\TopluMailSed\TopluMailSed\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\C# Projeler\TopluMailSed\TopluMailSed\obj\Release\TopluMailSed.csproj.AssemblyReference.cache
+D:\C# Projeler\TopluMailSed\TopluMailSed\obj\Release\TopluMailSed.Form1.resources
+D:\C# Projeler\TopluMailSed\TopluMailSed\obj\Release\TopluMailSed.Properties.Resources.resources
+D:\C# Projeler\TopluMailSed\TopluMailSed\obj\Release\TopluMailSed.csproj.GenerateResource.cache
+D:\C# Projeler\TopluMailSed\TopluMailSed\obj\Release\TopluMailSed.csproj.CoreCompileInputs.cache
+D:\C# Projeler\TopluMailSed\TopluMailSed\obj\Release\TopluMailSed.csproj.CopyComplete
+D:\C# Projeler\TopluMailSed\TopluMailSed\obj\Release\TopluMailSed.exe
+D:\C# Projeler\TopluMailSed\TopluMailSed\obj\Release\TopluMailSed.pdb
